@@ -1,0 +1,55 @@
+#title {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#subtitle {
+    text-align: center;
+    font-style: italic;
+}
+
+img {
+    width: 80%;
+    height: auto;
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+   padding-bottom:0.5cm;
+   
+}
+
+#img-caption {
+    font-style: italic;
+    margin-top: 0;
+    text-align: center;
+}
+
+#tribute-info p {
+    line-height: 2;
+    
+}
+
+#tribute-info {
+    background: lightgray;
+    margin: 120px;
+    margin-top: 40px;
+}
+
+#content {
+    padding-left: 25px;
+    padding-right: 60px;
+}
+
+#footer p {
+
+    font-size: x-large;
+    margin-left: 50px;
+    
+
+}
+
+body {
+    background: lightgray;
+}
